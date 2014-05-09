@@ -1,0 +1,15 @@
+export ANDROID_SDK_ROOT=/Users/tyzp/Documents/program/android/sdk/
+export ANDROID_NDK_ROOT=/Users/tyzp/Documents/program/android/ndk
+export COCOS2DX_ROOT=/Users/tyzp/Documents/program/cocos2dX2.2
+export NDK_ROOT=/Users/tyzp/Documents/program/android/ndk
+export PATH=$PATH:$ANDROID_SDK_ROOT
+export PATH=$PATH:$NDK_ROOT
+export PATH=$PATH:$ANDROID_NDK_ROOT
+export NDK_MODULE_PATH=/Users/tyzp/Documents/program/cocos2dX2.2/cocos2dx/platform/third_party/android/prebuilt
+export PATH=${PATH}:/eclipse/android_sdk/tools/Users/tyzp/Documents/program/android
+export PATH=${PATH}:/Users/tyzp/Documents/program/android/sdk/platform-tools
+export PATH=/usr/local/bin:$PATH
+export CLICOLOR=1
+export GREP_OPTIONS="--color=auto"
+export PATH=$PATH:/Users/tyzp/devtools/autotools-bin/bin
+alias javac='javac-J-Dfile.encoding=UTF-8'

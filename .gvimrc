@@ -1,0 +1,1 @@
+/Users/tyzp/.vim/gvimrc
